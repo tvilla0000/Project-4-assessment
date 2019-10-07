@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/css/main.d21d3fb8.chunk.css",
+    "main.js": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/js/main.74edb5bd.chunk.js",
+    "main.js.map": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/js/main.74edb5bd.chunk.js.map",
+    "runtime-main.js": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/js/runtime-main.8fe3524a.js",
+    "runtime-main.js.map": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/js/runtime-main.8fe3524a.js.map",
+    "static/js/2.cf7f5447.chunk.js": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/js/2.cf7f5447.chunk.js",
+    "static/js/2.cf7f5447.chunk.js.map": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/js/2.cf7f5447.chunk.js.map",
+    "index.html": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/index.html",
+    "precache-manifest.6cc28769fd0f067d3b3239466cacafe6.js": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/precache-manifest.6cc28769fd0f067d3b3239466cacafe6.js",
+    "service-worker.js": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/service-worker.js",
+    "static/css/main.d21d3fb8.chunk.css.map": "%3Cyour%20github%20username%3E.github.io/project-4-assessment/static/css/main.d21d3fb8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fe3524a.js",
+    "static/js/2.cf7f5447.chunk.js",
+    "static/css/main.d21d3fb8.chunk.css",
+    "static/js/main.74edb5bd.chunk.js"
+  ]
+}
